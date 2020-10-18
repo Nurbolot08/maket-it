@@ -99,6 +99,110 @@
     }
 }
 
+
+@media (max-width: 480px) {
+    html {
+        font-size: 5px;
+    }
+
+    .col-lg-6{
+        width: 100%;
+    }
+
+    .video{
+        margin: 2rem 0;
+    }
+
+    .top-menu.show .top-menu__item {
+        margin: 8rem 0;
+    }
+    .top-menu.show .top-menu__item {
+        padding: 2rem;
+    }
+    .logo{
+        margin-top: 3rem;
+    }
+    .hero-img {
+        height: 70vh;
+    }
+    .hero-content {
+        margin-top: 15rem;
+    }
+    .title-hero {
+        font-size: 3rem;
+    }
+
+    .title-about-company {
+        font-size: 3rem;
+        margin-bottom: 2rem;
+    }
+
+    .about-bootcamp {
+        padding: 0 0 0;
+    }
+    .title-bootcamp {
+        font-size: 3.5rem;
+        padding-bottom: 3rem;
+    }
+    .bootcamp-content h4 {
+        font-size: 2rem;
+    }
+    .bootcamp-content p {
+        font-size: 1.5rem;
+    }
+    .bootcamp-img img {
+        height: 30rem;
+    }
+
+    .title-co-founders {
+        font-size: 4rem;
+    }
+
+    .title-about-developer {
+        font-size: 3rem;
+        margin-bottom: 2rem;
+    }
+
+    .title-about-developer {
+        font-size: 3rem;
+        margin-bottom: 2rem;
+    }
+    .title-carousel {
+        font-size: 3rem;
+        margin: 3rem 0;
+    }
+    .carousel-item img {
+        height: 40rem;
+    }
+    .carousel-indicators li {
+        width: 20px;
+        height: 3px;
+    }
+    .carousel-control-prev-icon, .carousel-control-next-icon {
+        width: 15px;
+        height: 13px;
+    }
+    .carousel h5 {
+        font-size: 2rem;
+    }
+    .carousel p {
+        font-size: 1.5rem;
+    }
+    .link-carousel {
+        bottom: 30px;
+        width: 15rem;
+        height: 6rem;
+        padding: 1rem;
+        font-size: 1.5rem;
+
+    }
+    .title-commend {
+        font-size: 3rem;
+        padding-bottom: 2rem;
+    }
+}
+
+
 @media (max-width: 320px) {
     html {
         font-size: 5px;
@@ -199,23 +303,4 @@
         font-size: 3rem;
         padding-bottom: 2rem;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

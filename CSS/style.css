@@ -342,6 +342,7 @@ header {
 
 .card-body {
     background: #ffffff;
+    border-radius: 20px;
 }
 
 .card-item {
